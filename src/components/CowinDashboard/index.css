@@ -1,0 +1,25 @@
+.bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+  font-family: 'Roboto';
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.logo-section {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 30px;
+}
+.logo-txt {
+  color: #2cc6c6;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 5px;
+}
+.heading {
+  color: #cbd5e1;
+  font-size: 20px;
+  margin-top: 20px;
+}
