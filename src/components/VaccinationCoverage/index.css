@@ -1,9 +1,4 @@
-.loader {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .failure-container {
   height: 90vh;
@@ -15,7 +10,7 @@
 .failure-img {
   width: 350px;
 }
-.f-hed{
+.f-hed {
   color: #ffffff;
   font-family: 'Lobster';
 }
